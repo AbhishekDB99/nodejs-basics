@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "main": "first-class-function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekDB99/nodejs-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AbhishekDB99/nodejs-basics/issues"
+  },
+  "homepage": "https://github.com/AbhishekDB99/nodejs-basics#readme",
+  "description": ""
+}
